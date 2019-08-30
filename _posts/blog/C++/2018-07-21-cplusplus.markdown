@@ -4,7 +4,7 @@ title:      "数据结构-二叉树"
 date:       2018-7-21 
 header-img: "img/post-bg-4.png"
 categories: Cpp，数据结构
-tags: Blog
+tags: Blog，数据结构
 ---
 
 ### 二叉排序树
