@@ -3,8 +3,8 @@ layout:     post
 title:      "八大排序3"
 date:       2018-7-8 
 header-img: "img/post-bg-4.png"
-categories: Cpp，算法
-tags: Blog
+categories: Cpp
+tags: 算法
 ---
 
 ### 冒泡排序

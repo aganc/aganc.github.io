@@ -4,7 +4,7 @@ title:      "八大排序1"
 date:       2018-7-1 
 header-img: "img/post-bg-2.png"
 categories: Cpp
-tags: Blog
+tags: 算法
 ---
 
 

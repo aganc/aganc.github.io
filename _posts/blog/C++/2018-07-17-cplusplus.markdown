@@ -3,8 +3,8 @@ layout:     post
 title:      "数据结构-队列和栈"
 date:       2018-7-17 
 header-img: "img/post-bg-1.png"
-categories: Cpp，数据结构
-tags: Blog
+categories: Cpp
+tags: 数据结构
 ---
 
 ### 队列：

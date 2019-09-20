@@ -3,8 +3,8 @@ layout:     post
 title:      "八大排序4"
 date:       2018-7-10 
 header-img: "img/post-bg-1.png"
-categories: Cpp，算法
-tags: Blog
+categories: Cpp
+tags: 算法
 ---
 
 ### 归并排序

@@ -3,8 +3,8 @@ layout:     post
 title:      "数据结构-单链表"
 date:       2018-7-15 
 header-img: "img/post-bg-2.png"
-categories: Cpp，数据结构
-tags: Blog
+categories: Cpp
+tags: 数据结构
 ---
 
 ### 链表结构：
